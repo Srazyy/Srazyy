@@ -21,6 +21,7 @@ I'm a Computer Science & Engineering undergrad specializing in **AI/ML and Data 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srazyy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srazyy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Status-Active_Developer-22c55e?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/github/repo-size/Srazyy/HealthcareFLProject?style=flat-square&color=3b82f6" alt="Repo Size" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Systems-purple?style=flat-square" alt="Focus" />
 </p>
